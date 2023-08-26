@@ -4,7 +4,7 @@ import { FilterQuery, SortOrder } from "mongoose";
 
 import Community from "../models/community.model";
 import Thread from "../models/thread.models"
-import User from "../models/user.model";
+import User from "../models/user.models";
 
 import { connectToDB } from "../mongoose";
 
